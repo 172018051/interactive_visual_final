@@ -1,20 +1,16 @@
-# interactive_visual_final
-
-
-## 数据故事    &#xe964;
-### 探究中国各地区离婚率、离婚率变化趋势与其他数据的相关性分析   
+# interactive_visual_final   
+## 数据故事    
+**探究中国各地区离婚率、离婚率变化趋势与其他数据的相关性分析**   
 其他数据：
 地区的人均GDP、个人可支配收入、教育程度等等。
 
 ## 价值主张     
 通过数据的交叉分析探究我国各地区离婚率、离婚率变化趋势与地区、经济、教育程度等的相关性分析（什么地区高？是什么原因造成的？和什么有关等），以较可靠的数据及相关论文作支撑，得出较客观的结论以供大家参考。   
-### 加值宣言   
+## 加值宣言   
 发现其他更有意思与价值的结论。     
 
-### 协作      
-
-
-&#xe964; 数据源渠道：     
+## 协作      
+数据源渠道：     
 - [联合国](https://population.un.org/wpp/Download/Standard/Population/)    
 - [世界银行](https://data.worldbank.org.cn/indicator?tab=all)    
 - [国家统计局](http://www.stats.gov.cn/)   
