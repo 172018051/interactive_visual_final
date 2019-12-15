@@ -16,7 +16,7 @@ pyechart、plotly
 
 
 ## 协作      
-欢迎18级的师弟师妹和我一起做出有意思的数据故事，一起努力，拒绝划水。           
+欢迎18级的师弟师妹和我一起做出有意思的数据故事，拒绝划水，一起秃头[努力]。      
 
 数据源渠道：     
 - [联合国](https://population.un.org/wpp/Download/Standard/Population/)    
