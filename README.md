@@ -1,6 +1,6 @@
 # interactive_visual_final   
 ## [pythonanywhere链接入口](http://chenliang18.pythonanywhere.com/) 
-## [gitee pages链接入口](https://172018051.github.io/interactive_visual_final/)
+## [github pages链接入口](https://172018051.github.io/interactive_visual_final/)
 
 ## 数据故事    
 **探究与分析中国各地区离婚率变化趋势；离婚率与个人可支配收入、地区教育程度的相关性**   
